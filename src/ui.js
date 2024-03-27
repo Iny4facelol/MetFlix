@@ -1,5 +1,5 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+
 exports.pintarListaPeliculas = void 0;
 var model_1 = require("./model");
 var constants_1 = require("./constants");

@@ -1,5 +1,5 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+
 exports.filtrarPeliculas = exports.filtrarPeliculasPorCalificacion = exports.filtrarPeliculasPorMasVisto = exports.filtrarPeliculasPorPremio = exports.filtrarPeliculasPorGenero = void 0;
 var filtrarPeliculasPorGenero = function (peliculas, genero) { return peliculas.filter(function (peliculas) { return peliculas.genero === genero; }); };
 exports.filtrarPeliculasPorGenero = filtrarPeliculasPorGenero;

@@ -1,5 +1,5 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+
 exports.peliculas = void 0;
 exports.peliculas = [
     {

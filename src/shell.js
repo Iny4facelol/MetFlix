@@ -1,5 +1,5 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+
 var data_1 = require("./data");
 var ui_1 = require("./ui");
 document.addEventListener("DOMContentLoaded", function () {
