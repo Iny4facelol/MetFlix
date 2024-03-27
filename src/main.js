@@ -1,3 +1,3 @@
 "use strict";
 
-import "./src/shell.js";
+import "./shell.js";
