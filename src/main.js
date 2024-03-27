@@ -1,3 +1,3 @@
 "use strict";
 
-require("./shell");
+import "./src/shell.js";
