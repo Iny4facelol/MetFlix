@@ -10,7 +10,7 @@ exports.peliculas = [
         calificacionImdb: 5.6,
         premioGalardon: false,
         fechaEstreno: new Date("1990-12-21"),
-        imagen: "poli-guarderia.png",
+        imagen: "./public/poli-guarderia.png",
     },
     {
         titulo: "The Karate Kid",
@@ -20,7 +20,7 @@ exports.peliculas = [
         calificacionImdb: 7.2,
         premioGalardon: false,
         fechaEstreno: new Date("1984-06-22"),
-        imagen: "karate-kid.png",
+        imagen: "./public/karate-kid.png",
     },
     {
         titulo: "El príncipe de Zamunda",
@@ -30,7 +30,7 @@ exports.peliculas = [
         calificacionImdb: 7,
         premioGalardon: false,
         fechaEstreno: new Date("1988-06-29"),
-        imagen: "principe-zamunda.png",
+        imagen: "./public/principe-zamunda.png",
     },
     {
         titulo: "Angry Birds",
@@ -40,7 +40,7 @@ exports.peliculas = [
         calificacionImdb: 6.3,
         premioGalardon: false,
         fechaEstreno: new Date("2016-05-11"),
-        imagen: "angry-birds.png",
+        imagen: "./public/angry-birds.png",
     },
     {
         titulo: "Babe el cerdito valiente",
@@ -50,7 +50,7 @@ exports.peliculas = [
         calificacionImdb: 6.7,
         premioGalardon: true,
         fechaEstreno: new Date("1995-08-04"),
-        imagen: "babe.png",
+        imagen: "./public/babe.png",
     },
     {
         titulo: "Los Croods",
@@ -60,7 +60,7 @@ exports.peliculas = [
         calificacionImdb: 7.2,
         premioGalardon: false,
         fechaEstreno: new Date("2013-03-15"),
-        imagen: "croods.png",
+        imagen: "./public/croods.png",
     },
     {
         titulo: "José, el rey de los sueños",
@@ -70,7 +70,7 @@ exports.peliculas = [
         calificacionImdb: 6.5,
         premioGalardon: false,
         fechaEstreno: new Date("2000-10-27"),
-        imagen: "jose.png",
+        imagen: "./public/jose.png",
     },
     {
         titulo: "La patrulla canina",
@@ -80,7 +80,7 @@ exports.peliculas = [
         calificacionImdb: 4.7,
         premioGalardon: false,
         fechaEstreno: new Date("2021-08-20"),
-        imagen: "patrulla-canina.png",
+        imagen: "./public/patrulla-canina.png",
     },
     {
         titulo: "Los pitufos",
@@ -90,7 +90,7 @@ exports.peliculas = [
         calificacionImdb: 5.4,
         premioGalardon: false,
         fechaEstreno: new Date("2011-07-29"),
-        imagen: "pitufos.png",
+        imagen: "./public/pitufos.png",
     },
     {
         titulo: "El cazador y la reina del hielo",
@@ -100,7 +100,7 @@ exports.peliculas = [
         calificacionImdb: 6.1,
         premioGalardon: false,
         fechaEstreno: new Date("2016-04-08"),
-        imagen: "cazador.png",
+        imagen: "./public/cazador.png",
     },
     {
         titulo: "Ghost Rider",
@@ -110,7 +110,7 @@ exports.peliculas = [
         calificacionImdb: 5.2,
         premioGalardon: false,
         fechaEstreno: new Date("2007-02-16"),
-        imagen: "ghost-rider.png",
+        imagen: "./public/ghost-rider.png",
     },
     {
         titulo: "La momia",
@@ -120,7 +120,7 @@ exports.peliculas = [
         calificacionImdb: 5.2,
         premioGalardon: false,
         fechaEstreno: new Date("2008-08-01"),
-        imagen: "momia.png",
+        imagen: "./public/momia.png",
     },
     {
         titulo: "Vampire Academy",
@@ -130,7 +130,7 @@ exports.peliculas = [
         calificacionImdb: 5.5,
         premioGalardon: false,
         fechaEstreno: new Date("2014-02-14"),
-        imagen: "vampire-academy.png",
+        imagen: "./public/vampire-academy.png",
     },
     {
         titulo: "Warcraft: El origen",
@@ -140,7 +140,7 @@ exports.peliculas = [
         calificacionImdb: 6.8,
         premioGalardon: false,
         fechaEstreno: new Date("2016-06-03"),
-        imagen: "warcraft.png",
+        imagen: "./public/warcraft.png",
     },
     {
         titulo: "Intocable",
@@ -150,6 +150,6 @@ exports.peliculas = [
         calificacionImdb: 8.5,
         premioGalardon: true,
         fechaEstreno: new Date("2011-11-02"),
-        imagen: "https://raw.githubusercontent.com/Lemoncode/fotos-ejemplos/main/mflix/intocable.png",
+        imagen: "./public/intocable.png",
     },
 ];
